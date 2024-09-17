@@ -81,7 +81,7 @@ input[type="submit"]:hover {
     justify-content: center;
     align-items: center;
     z-index: 1;
-    background-image: url(/Canterlot.jpg);
+    background-image: url(Canterlot.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
